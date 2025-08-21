@@ -78,7 +78,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{song2025sparse,
   title={Sparse and Dense Retrievers Learn Better Together: Joint Sparse-Dense Optimization for Text-Image Retrieval},
-  author={Song, Jonghyun and Lee, Youngjune and Cho, Gyu-Hwung and Song, Ilhyeon and Kim, Saehun and Jo, Yohan},
+  author={Jonghyun Song, Youngjune Lee, Gyu-Hwung Cho, Ilhyeon Song, Saehun Kim, and Yohan Jo},
   booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
   year={2025},
   pages={5},
