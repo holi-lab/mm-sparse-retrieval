@@ -4,9 +4,14 @@ This repository contains the official implementation for the paper **"Sparse and
 
 **Authors:** Jonghyun Song, Youngjune Lee, Gyu-Hwung Cho, Ilhyeon Song, Saehun Kim, Yohan Jo
 
+
+
 ## 📋 Abstract
 
 Vision-Language Pretrained (VLP) models have achieved impressive performance on multimodal tasks, including text-image retrieval, based on dense representations. Meanwhile, Learned Sparse Retrieval (LSR) has gained traction in text-only settings due to its interpretability and efficiency with fast term-based lookup via inverted indexes. Inspired by these advantages, recent work has extended LSR to the multimodal domain. However, these methods often rely on computationally expensive contrastive pre-training, or distillation from a frozen dense model, which limits the potential for mutual enhancement. To address these limitations, we propose a simple yet effective framework that enables bi-directional learning between dense and sparse representations through Self-Knowledge Distillation. This bi-directional learning is achieved using an integrated similarity score—a weighted sum of dense and sparse similarities—which serves as a shared teacher signal for both representations. To ensure efficiency, we fine-tune the final layer of the dense encoder and the sparse projection head, enabling easy adaptation of any existing VLP model. Experiments on MSCOCO and Flickr30k demonstrate that our sparse retriever not only outperforms existing sparse baselines, but also achieves performance comparable to—or even surpassing—its dense counterparts, while retaining the benefits of sparse models.
+
+![cikm 3](https://github.com/user-attachments/assets/fe7c5ee4-f820-417c-9fcb-0e124a4b7629)
+
 
 ## 🚀 Quick Start
 
