@@ -3,6 +3,7 @@
 This repository contains the official implementation for the paper **"Sparse and Dense Retrievers Learn Better Together: Joint Sparse-Dense Optimization for Text-Image Retrieval"** accepted to CIKM 2025 Short Track.
 
 **ArXiv:** https://arxiv.org/abs/2508.16707
+
 **Authors:** Jonghyun Song, Youngjune Lee, Gyu-Hwung Cho, Ilhyeon Song, Saehun Kim, Yohan Jo
 
 
